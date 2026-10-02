@@ -1,0 +1,28 @@
+# LangChain Core
+langchain
+langchain-core
+langchain-openai
+
+# LangGraph - useful for multi-agent / agent workflows
+langgraph
+
+# Tavily Search
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+
+# Environment Variables
+python-dotenv
+
+# OpenAI
+openai
+
+# HTTP / Async support
+httpx
+aiohttp
+
+
+#for printing
+rich
